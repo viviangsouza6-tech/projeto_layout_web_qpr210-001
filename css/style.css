@@ -11,3 +11,13 @@ h3{
     text-transform: uppercase;
     color: aqua;
 }
+
+label{
+    display: block;
+    padding: 5px 0px;
+}
+
+input{
+    display: block;
+    margin: 10px 0px;
+}
